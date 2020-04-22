@@ -1,6 +1,6 @@
 # quickcode package
 
-Code helper Atom plugin. Type some words and plugin will search Stackoverflow with google, try first result if there is snipper in accepted answer and then pipe that through JSNice.
+Code helper Atom plugin. Type some words and plugin will search Stackoverflow with google, try first result if there is snipper in accepted answer and then pipe that through JSNice. Keymapped to ctrl-alt-o (tested on macos)
 
 This is personal demo for educational purposes.
 
