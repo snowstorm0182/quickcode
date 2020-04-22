@@ -1,0 +1,20 @@
+{
+  "name": "quickcode",
+  "main": "./lib/quickcode",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "quickcode:fetch"
+  },
+  "repository": "https://github.com/snowstorm0182/quickcode",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "google-it": "^1.5.0",
+    "request": "^2.73.0"
+  }
+}

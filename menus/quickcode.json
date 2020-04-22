@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Fetch quickcode",
+        "command": "quickcode:fetch"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "quickcode",
+          "submenu": [
+            {
+              "label": "Fetch",
+              "command": "quickcode:fetch"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
